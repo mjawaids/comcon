@@ -1,0 +1,4 @@
+*.log
+wp-config.php
+wp-content/cache/
+wp-content/plugins/hello.php
