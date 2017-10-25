@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://www.comconhr.com
+Data file = /var/lib/openshift/5899f2d97628e1d81e00018e/app-root/data/current/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = /var/lib/openshift/5899f2d97628e1d81e00018e/app-root/data/current/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+sidebar-above-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Calendar - No Title - Imported
+
+Footer 1 : 
+
+Sydney: Video - No Title - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+footer-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Sydney: Contact info - Get in touch - Imported to Inactive
+
+
+
+---pt-ocdi/after_import---
+
