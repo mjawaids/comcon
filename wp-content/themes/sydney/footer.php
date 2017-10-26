@@ -22,7 +22,7 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info container">
 			<span class="sep">  </span>
-			<?php printf( __( '%2$s %1$s', 'sydney' ), '', '<a href="http://www-ibexofts.rhcloud.com" rel="designer">Proudly powered by Ibexoft</a>' ); ?>
+			<?php printf( __( '%2$s %1$s', 'sydney' ), '', '<a href="http://www.ibexoft.com" rel="designer">Proudly powered by Ibexoft</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 
